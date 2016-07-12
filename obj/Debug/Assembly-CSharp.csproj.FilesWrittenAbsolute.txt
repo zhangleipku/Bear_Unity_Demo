@@ -1,0 +1,17 @@
+/Users/LeiZhang/src/bear/Temp/bin/Debug/Assembly-CSharp.dll.mdb
+/Users/LeiZhang/src/bear/Temp/bin/Debug/Assembly-CSharp.dll
+/Users/LeiZhang/src/bear/obj/Debug/Assembly-CSharp.dll
+/Users/LeiZhang/src/bear/obj/Debug/Assembly-CSharp.dll.mdb
+/Users/LeiZhang/src/bear/Temp/bin/Debug/UnityEngine.dll
+/Users/LeiZhang/src/bear/Temp/bin/Debug/UnityEditor.dll
+/Users/LeiZhang/src/bear/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/LeiZhang/src/bear/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/LeiZhang/src/bear/Temp/bin/Debug/Mono.Cecil.dll
+/Users/LeiZhang/src/bear/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/LeiZhang/src/bear/Temp/bin/Debug/Unity.DataContract.dll
+/Users/LeiZhang/src/bear/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/LeiZhang/src/bear/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/LeiZhang/src/bear/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/LeiZhang/src/bear/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/LeiZhang/src/bear/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/LeiZhang/src/bear/Temp/bin/Debug/Mono.Cecil.Mdb.dll
